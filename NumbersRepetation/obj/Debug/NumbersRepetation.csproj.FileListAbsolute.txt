@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\NumbersRepetation\NumbersRepetation\bin\Debug\NumbersRepetation.exe.config
+C:\Users\karun\source\repos\NumbersRepetation\NumbersRepetation\bin\Debug\NumbersRepetation.exe
+C:\Users\karun\source\repos\NumbersRepetation\NumbersRepetation\bin\Debug\NumbersRepetation.pdb
+C:\Users\karun\source\repos\NumbersRepetation\NumbersRepetation\obj\Debug\NumbersRepetation.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\NumbersRepetation\NumbersRepetation\obj\Debug\NumbersRepetation.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\NumbersRepetation\NumbersRepetation\obj\Debug\NumbersRepetation.exe
+C:\Users\karun\source\repos\NumbersRepetation\NumbersRepetation\obj\Debug\NumbersRepetation.pdb
